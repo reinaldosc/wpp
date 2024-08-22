@@ -14,8 +14,8 @@ const doc = {
       description: ''
     },
     {
-      url: 'http://localhost:3000',
-      description: 'localhost'
+      url: 'https://whatsapp-api-pg6k.onrender.com:10000',
+      description: 'servidor'
     }
   ],
   securityDefinitions: {
